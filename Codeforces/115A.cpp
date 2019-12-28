@@ -1,3 +1,4 @@
+//Method1 :
 #include<bits/stdc++.h>
 using namespace std;
 bool vis[2002];
@@ -32,6 +33,7 @@ int main()
  return 0;
 }
 
+// Method2 :
 /*
 int n;
 int vis[N];
